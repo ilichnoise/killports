@@ -1,0 +1,10 @@
+C:\Users\Game\source\repos\Killports\Killports\bin\Debug\Killports.exe.config
+C:\Users\Game\source\repos\Killports\Killports\bin\Debug\Killports.exe
+C:\Users\Game\source\repos\Killports\Killports\bin\Debug\Killports.pdb
+C:\Users\Game\source\repos\Killports\Killports\obj\Debug\Killports.csprojAssemblyReference.cache
+C:\Users\Game\source\repos\Killports\Killports\obj\Debug\Killports.Form1.resources
+C:\Users\Game\source\repos\Killports\Killports\obj\Debug\Killports.Properties.Resources.resources
+C:\Users\Game\source\repos\Killports\Killports\obj\Debug\Killports.csproj.GenerateResource.cache
+C:\Users\Game\source\repos\Killports\Killports\obj\Debug\Killports.csproj.CoreCompileInputs.cache
+C:\Users\Game\source\repos\Killports\Killports\obj\Debug\Killports.exe
+C:\Users\Game\source\repos\Killports\Killports\obj\Debug\Killports.pdb
